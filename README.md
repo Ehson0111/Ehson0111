@@ -17,10 +17,8 @@ I am a student from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmT
  
 ---
 
-### :fire: My Stats :
+###  
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ehson0111&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![WakaTime](https://wakatime.com/badge/user/Ehson0111.svg)](https://wakatime.com/@Ehson0111)
 
-[![Codewars](https://www.codewars.com/users/Ehson0111/badges/large)](https://www.codewars.com/users/Ehson0111)
