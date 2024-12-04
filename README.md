@@ -23,4 +23,4 @@ I am a student from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 [![WakaTime](https://wakatime.com/badge/user/your-user-id.svg)](https://wakatime.com/@Ehson0111)
 
-[![Codewars](https://www.codewars.com/users/your-username/badges/large)](https://www.codewars.com/users/Ehson0111)
+[![Codewars](https://www.codewars.com/users/Ehson0111/badges/large)](https://www.codewars.com/users/Ehson0111)
