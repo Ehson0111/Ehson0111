@@ -18,7 +18,6 @@ I am a student from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Ehson0111)](https://git.io/streak-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ehson0111&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
