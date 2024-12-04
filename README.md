@@ -14,22 +14,14 @@
 ### :man_technologist: About Me :
 I am a student from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 ---
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</div>
-
+ 
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ehson0111)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Ehson0111)](https://git.io/streak-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ehson0111&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![WakaTime](https://wakatime.com/badge/user/your-user-id.svg)](https://wakatime.com/@your-user-id)
+[![WakaTime](https://wakatime.com/badge/user/your-user-id.svg)](https://wakatime.com/@Ehson0111)
 
-[![Codewars](https://www.codewars.com/users/your-username/badges/large)](https://www.codewars.com/users/your-username)
+[![Codewars](https://www.codewars.com/users/your-username/badges/large)](https://www.codewars.com/users/Ehson0111)
