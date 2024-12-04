@@ -10,4 +10,4 @@
 </div>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehson0111&layout=compact&theme=vision-friendly-dark)](https://github.com/Ehson0111/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehson0111)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehson0111)](https://github.com/Ehson0111/github-readme-stats)
