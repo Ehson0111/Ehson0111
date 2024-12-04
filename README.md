@@ -12,13 +12,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-
-- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on Codewars and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ehson0111-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-
+I am a student from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
